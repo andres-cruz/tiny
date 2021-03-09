@@ -2,7 +2,8 @@
 
 ![npm (scoped)](https://img.shields.io/npm/v/@andres-cruz/tiny)
 
-Removes all spaces from a string.
+Toy project for testing npm library publication workflow.
+Description: Removes all spaces from a string.
 
 ## Install
 
