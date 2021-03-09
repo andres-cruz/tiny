@@ -2,7 +2,7 @@
 
 ![npm (scoped)](https://img.shields.io/npm/v/@andres-cruz/tiny)
 
-Toy project for testing npm library publication workflow.
+Toy project for testing npm library publication workflow.  
 Description: Removes all spaces from a string.
 
 ## Install
